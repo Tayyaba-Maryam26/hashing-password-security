@@ -69,7 +69,7 @@ A hash is like a digital fingerprint of data, not an encryption key.
 
 ### 📸 Poster 1 — What Is a Hash?
 
-![Poster 1 — What Is a Hash?](posters/poster-1-hashing-basics.png)
+![Poster 1 — What Is a Hash?](hashing-basics.png)
 
 ---
 
@@ -125,7 +125,7 @@ For example, SHA-256 produces a 256-bit output whether the input is a single wor
 
 ### 📸 Poster 2 — Types of Hash Algorithms
 
-![Poster 2 — Types of Hash Algorithms](posters/poster-2-hash-algorithms.png)
+![Poster 2 — Types of Hash Algorithms](hash-algorithms.png)
 
 ---
 
@@ -173,7 +173,7 @@ These methods are not simply newer SHA algorithms; they are dedicated password-h
 
 ### 📸 Poster 3 — Password-Hashing Methods
 
-![Poster 3 — Password-Hashing Methods](posters/poster-3-password-hashing-methods.png)
+![Poster 3 — Password-Hashing Methods](password-hashing-methods.png)
 
 ---
 
@@ -222,7 +222,7 @@ If the pepper is exposed along with the database, its additional protection may 
 
 ### 📸 Poster 4 — Salting and Peppering
 
-![Poster 4 — Salting and Peppering](posters/poster-4-salting-and-peppering.png)
+![Poster 4 — Salting and Peppering](salting-and-peppering.png)
 
 ---
 
@@ -289,7 +289,7 @@ Success depends on password strength, the algorithm, its settings, and the attac
 
 ### 📸 Poster 5 — Online vs. Offline Attacks
 
-![Poster 5 — Online vs. Offline Attacks](posters/poster-5-online-vs-offline.png)
+![Poster 5 — Online vs. Offline Attacks](online-vs-offline.png)
 
 ---
 
@@ -324,7 +324,7 @@ Strong, unique passwords; suitable password-hashing methods; unique salts; secur
 
 ### 📸 Poster 6 — The Big Picture
 
-![Poster 6 — The Big Picture](posters/poster-6-big-picture.png)
+![Poster 6 — The Big Picture](big-picture.png)
 
 ---
 
